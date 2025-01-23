@@ -14,5 +14,5 @@ Soy un desarrollador de software con experiencia en el diseño y desarrollo de a
 
 ## 📫 ¿Cómo puedes contactarme?
 
-- **LinkedIn:** [Miguel Angel Ceballos]([https://linkedin.com/in/jota-lópez-ramirez-899604231](https://www.linkedin.com/in/miguel-angel-ceballos-914970284/))
-- **Correo electrónico:** [jota.lopez@correounivalle.edu.co](mailto:jota.lopez@correounivalle.edu.co)
+- **LinkedIn:** [Miguel Angel Ceballos](https://linkedin.com/in/jota-lópez-ramirez-899604231](https://www.linkedin.com/in/miguel-angel-ceballos-914970284/)
+- **Correo electrónico:** [miguel.yate@correounivalle.edu.co](mailto:miguel.yate@correounivalle.edu.co)
